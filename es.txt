@@ -7,6 +7,12 @@ void main() {
 		cout << i;
 	}
 }
+<<<<<<< HEAD
 prima modifica col master
 secondo modifica col master
 terzo modifica col master
+=======
+prima modifica bug_fix
+secondo modifica bug_fix
+terzo modifica bug_fix
+>>>>>>> BUG_FIX
