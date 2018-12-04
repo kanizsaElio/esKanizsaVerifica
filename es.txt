@@ -7,4 +7,4 @@ void main() {
 		cout << i;
 	}
 }
- 
+prima modifica col master
